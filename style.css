@@ -416,4 +416,8 @@ li .list a :hover{
    .contact form textarea{
     width: 100%;
    }
+    .header{
+        position:fixed;
+    }
+
 }
